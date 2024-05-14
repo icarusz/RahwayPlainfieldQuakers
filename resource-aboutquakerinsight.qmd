@@ -1,0 +1,15 @@
+---
+title: "Quaker Insights"
+author: "Andrew Holz"
+---
+
+Insight into the Quakers
+Public ContentAnyone can view this post
+
+This video quickly describes what is means to be a quaker. 
+
+It states some of the characteristics of a quaker and provides definitions from different people of all races, ethnicities, and backgrounds.
+  
+  
+  
+  {{< video https://www.youtube.com/watch?v=I63xA-VZGXw >}}

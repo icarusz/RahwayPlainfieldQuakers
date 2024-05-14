@@ -1,0 +1,29 @@
+project:
+  type: website
+
+website:
+  title: "PlainfieldRahwayQuakerMeeting"
+
+  navbar:
+    right:
+      - href: index.qmd
+        text: Home
+      - href: resource-aboutquakerinsight.qmd
+        text: Quaker Insights
+      - href: resource-aboutmeeting.qmd
+        text: About the Meeting
+      - icon: facebook
+        href: https://www.facebook.com/RahwayAndPlainfieldQuakerMeeting/
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    grid:
+      sidebar-width: 300px
+      body-width: 900px
+      margin-width: 300px
+      gutter-width: 1.5rem
+    sidebar:
+      - title: "Worship with us"  
+editor: visual
+
