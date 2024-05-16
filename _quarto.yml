@@ -11,6 +11,8 @@ website:
         text: Home
       - href: resource-aboutquakerinsight.qmd
         text: Quaker Insights
+      - href: resource-values.qmd
+        text: Quaker Values
       - href: resource-aboutmeeting.qmd
         text: About the Meeting
       - icon: facebook
