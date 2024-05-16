@@ -4,7 +4,8 @@ author: "Andrew Holz"
 ---
 
 Insight into the Quakers
-Public ContentAnyone can view this post
+
+If you are new to learning about Quakerism and only know about the "oats guy with the hat" welcome and you are in the right place.
 
 This video quickly describes what is means to be a quaker. 
 
@@ -13,3 +14,8 @@ It states some of the characteristics of a quaker and provides definitions from 
   
   
   {{< video https://www.youtube.com/watch?v=I63xA-VZGXw >}}
+
+---
+
+If you prefer reading to watching, we have prepared some brief overviews of Quaker Values and Quaker Testimonies to help you understand what we stand for. We hope these materials resonate with you. If they do, we warmly invite you to explore further by attending one of our meetings, either in person or online, or by visiting a meeting closer to your location. We look forward to sharing in our community with you.
+  
