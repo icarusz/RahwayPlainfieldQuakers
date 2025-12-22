@@ -2,6 +2,7 @@
 title: "You Are Welcome at Worship"
 description: "An invitation to worship with Rahway–Plainfield Friends Meeting."
 author: "Rahway–Plainfield Friends Meeting"
+date: "2025-12-22"
 categories: ["welcome", "worship"]
 ---
 
