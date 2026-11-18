@@ -15,6 +15,8 @@ website:
         text: Quaker Values
       - href: resource-aboutmeeting.qmd
         text: About the Meeting
+      - href: contact.qmd
+        text: Contact Us
       - icon: facebook
         href: https://www.facebook.com/RahwayAndPlainfieldQuakerMeeting/
 format:
